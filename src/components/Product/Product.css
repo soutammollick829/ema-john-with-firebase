@@ -1,14 +1,14 @@
 .product {
-    width: 300px;
-    height: 510px;
+    width: 230px;
+    height: 490px;
     border: 1px solid #95A0A7;
     border-radius: 8px;
     position: relative;
 }
 
 .product img {
-    width: 286px;
-    height: 286px;
+    width: 215px;
+    height: 250px;
     margin: 7px;
     border-radius: 8px;
 }
@@ -19,8 +19,8 @@
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    font-size: 21px;
-    line-height: 25px;
+    font-size: 18px;
+    line-height: 20px;
     letter-spacing: 0.0015em;
     color: #0E161A;
 }
